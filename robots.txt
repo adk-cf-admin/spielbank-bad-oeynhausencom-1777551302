@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://spielbank-bad-oeynhausen.com/
+Sitemap: https://spielbank-bad-oeynhausen.com/sitemap.xml

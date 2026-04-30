@@ -1,0 +1,19 @@
+{
+  "name": "Merkur Spielbank Bad Oeynhausen",
+  "short_name": "Merkur Spielbank Bad Oeynhausen",
+  "theme_color": "",
+  "background_color": "#022652",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1777549443-favicon-83.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
